@@ -1,0 +1,12 @@
+/* Flavour Catalogue (Table) — shrink hotlinked product photos to fit
+   neatly in the Image column instead of rendering at full resolution.
+   Scoped to `table img` since this is currently the only note with
+   images inside a table. */
+
+table img {
+  display: block;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 6px;
+}

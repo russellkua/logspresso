@@ -1,5 +1,5 @@
 ---
-capsule: "Starbucks Espresso (Original)"
+capsule: "Starbucks Italian Style Roast"
 brand: "Starbucks"
 line: "Original"
 collection: "Starbucks by Nespresso"
@@ -7,28 +7,28 @@ cup_size: "Espresso"
 vol_ml: 40
 intensity: 11
 roast_level: "Dark"
-taste_profile: "Caramelly and smooth, signature dark roast"
+taste_profile: "Roasty with sweet notes, rich and intense with caramelised sugar"
 decaf: "No"
 organic: "No"
 availability: "Permanent"
 tags: [pod, starbucks, original]
 ---
-
-# Starbucks Espresso (Original)
+# Starbucks Italian Style Roast
 
 > [!info] Category
 > **Brand:** Starbucks · **Line:** Original · **Collection:** Starbucks by Nespresso
 > **Cup Size:** Espresso (40 ml) · **Intensity:** 11 · **Roast:** Dark
-> **Taste Profile:** Caramelly and smooth, signature dark roast
+> **Taste Profile:** Roasty with sweet notes, rich and intense with caramelised sugar
 > **Decaf:** No · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
 | Date | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2026-06-17 | With Milk | 3 | 3 | 2 | 1 | 3 | 6 | Yes | Yes | Creamer counteracts the acidity and makes it a nice post lunch drink  |
+| 2026-06-18 | Black | 3 | 3 | 2 | 2 | 3 | 6 | Yes | Yes |  Added water to make it a long black. Better  |
+| 2206-06-29 | Black | 3 | 3 | 3 | 3 | 3 | 6 | Yes | Yes | Added water to make it longer. Not so acidic |
 | | | | | | | | | | | |
 
 > [!tip] Logging a new session

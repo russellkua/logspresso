@@ -1,34 +1,33 @@
 ---
-capsule: "Ice Leggero"
+capsule: "Colombia"
 brand: "Nespresso"
 line: "Vertuo"
-collection: "Barista Creations Over Ice"
-cup_size: "Double Espresso"
-vol_ml: 80
-intensity: null
-roast_level: "Flavoured"
-taste_profile: "Mild, for iced recipes"
+collection: "Master Origins"
+cup_size: "Mug"
+vol_ml: 230
+intensity: 5
+roast_level: "Medium"
+taste_profile: "Fruity and winey"
 decaf: "No"
 organic: "No"
 availability: "Permanent"
 tags: [pod, nespresso, vertuo]
 ---
-
-# Ice Leggero
+# Colombia
 
 > [!info] Category
-> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Barista Creations Over Ice
-> **Cup Size:** Double Espresso (80 ml) · **Intensity:** — · **Roast:** Flavoured
-> **Taste Profile:** Mild, for iced recipes
+> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Master Origins
+> **Cup Size:** Mug (230 ml) · **Intensity:** 5 · **Roast:** Medium
+> **Taste Profile:** Fruity and winey
 > **Decaf:** No · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
 | Date | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2026-06-13 | Iced | 3 | 3 | 3 | 4 | 3 | 6 | Maybe | Yes | Noticeable acidity. Works well with ice |
+| 2026-07-12 | Black | 3 | 3 | 3 | 3 | 3 | 6 | Yes | Yes | Big cup but goes down easy |
 | | | | | | | | | | | |
 
 > [!tip] Logging a new session

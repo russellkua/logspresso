@@ -13,7 +13,6 @@ organic: "No"
 availability: "Limited Edition"
 tags: [pod, nespresso, original]
 ---
-
 # Sweet Almond and Hibiscus
 
 > [!info] Category
@@ -22,7 +21,7 @@ tags: [pod, nespresso, original]
 > **Taste Profile:** Almond, caramel and vanilla with a floral hibiscus finish
 > **Decaf:** No · **Organic:** No · **Availability:** Limited Edition
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 

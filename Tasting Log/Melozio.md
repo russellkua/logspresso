@@ -13,7 +13,6 @@ organic: "No"
 availability: "Permanent"
 tags: [pod, nespresso, vertuo]
 ---
-
 # Melozio
 
 > [!info] Category
@@ -22,7 +21,7 @@ tags: [pod, nespresso, vertuo]
 > **Taste Profile:** Smooth and balanced
 > **Decaf:** No · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 

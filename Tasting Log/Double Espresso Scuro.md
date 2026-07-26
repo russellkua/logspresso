@@ -1,34 +1,33 @@
 ---
-capsule: "Intenso"
+capsule: "Double Espresso Scuro"
 brand: "Nespresso"
 line: "Vertuo"
-collection: "Mug"
-cup_size: "Mug"
-vol_ml: 230
-intensity: 9
-roast_level: "Dark"
-taste_profile: "Intensely roasted, brown sugar notes"
+collection: "Double Espresso"
+cup_size: "Double Espresso"
+vol_ml: 80
+intensity: 11
+roast_level: "Very Dark"
+taste_profile: "Dark and bold"
 decaf: "No"
 organic: "No"
 availability: "Permanent"
 tags: [pod, nespresso, vertuo]
 ---
-
-# Intenso
+# Double Espresso Scuro
 
 > [!info] Category
-> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Mug
-> **Cup Size:** Mug (230 ml) · **Intensity:** 9 · **Roast:** Dark
-> **Taste Profile:** Intensely roasted, brown sugar notes
+> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Double Espresso
+> **Cup Size:** Double Espresso (80 ml) · **Intensity:** 11 · **Roast:** Very Dark
+> **Taste Profile:** Dark and bold
 > **Decaf:** No · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
 | Date | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2026-06-28 | Black | 3 | 3 | 3 | 3 | 3 | 6 | Yes | Yes | Big mug. Very cafe like. Can be drunk black without anything |
+| 2026-06-14 | Black | 3 | 4 | 3 | 3 | 3 | 6 | Yes | Yes | Low acidity. Suitable to drink black. Chiaro double espresso might be more suitable. |
 | | | | | | | | | | | |
 
 > [!tip] Logging a new session

@@ -1,0 +1,8 @@
+{
+  "enabledCssSnippets": [
+    "flavour-catalogue",
+    "flavour-catalogue-table"
+  ],
+  "theme": "moonstone",
+  "translucency": false
+}

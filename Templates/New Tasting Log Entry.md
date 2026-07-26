@@ -13,7 +13,7 @@ organic: "No"
 availability: "REPLACE"
 tags: [pod]
 ---
-# REPLACE_WITH_NAME
+ REPLACE_WITH_NAME
 
 > [!info] Category
 > **Brand:** REPLACE · **Line:** REPLACE · **Collection:** REPLACE
@@ -21,7 +21,7 @@ tags: [pod]
 > **Taste Profile:** REPLACE
 > **Decaf:** No · **Organic:** No · **Availability:** REPLACE
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
@@ -36,8 +36,8 @@ tags: [pod]
 
 ### How to use this template
 
-1. Duplicate this file (it already lives in `Pods Tasted/`) and rename the copy to the exact flavour name.
-2. Fill in the frontmatter and category callout from its row in the [[Flavour Library]] (or add the row there first if it doesn't exist yet).
+1. Duplicate this file into `Tasting Log/` and rename the copy to the exact flavour name.
+2. Fill in the frontmatter and category callout from its row in the [[Flavour Catalogue]] (or add the row there first if it doesn't exist yet).
 3. Add your first tasting session row.
 4. Delete this "How to use this template" section from your new page.
-5. Go to the matching row in [[Flavour Library]] and wrap the flavour name in `[[double brackets]]` so it links here, and change its ☐ to ✅.
+5. Go to the matching row in [[Flavour Catalogue]], wrap the flavour name in `[[double brackets]]` so it links here, and add `tried` to its badge span's class (`<span class="tried-badge"></span>` → `<span class="tried-badge tried"></span>`) so the badge fills in green.

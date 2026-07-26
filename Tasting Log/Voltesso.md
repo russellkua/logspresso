@@ -1,34 +1,35 @@
 ---
-capsule: "Ethiopia"
+capsule: "Voltesso"
 brand: "Nespresso"
 line: "Vertuo"
-collection: "Master Origins"
-cup_size: "Gran Lungo"
-vol_ml: 150
+collection: "Espresso"
+cup_size: "Espresso"
+vol_ml: 40
 intensity: 4
 roast_level: "Light"
-taste_profile: "Floral and delicate"
+taste_profile: "Light and sweet"
 decaf: "No"
 organic: "No"
 availability: "Permanent"
 tags: [pod, nespresso, vertuo]
 ---
-
-# Ethiopia
+# Voltesso
 
 > [!info] Category
-> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Master Origins
-> **Cup Size:** Gran Lungo (150 ml) · **Intensity:** 4 · **Roast:** Light
-> **Taste Profile:** Floral and delicate
+> **Brand:** Nespresso · **Line:** Vertuo · **Collection:** Espresso
+> **Cup Size:** Espresso (40 ml) · **Intensity:** 4 · **Roast:** Light
+> **Taste Profile:** Light and sweet
 > **Decaf:** No · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
 | Date | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 2026-06-22 | Black | 3 | 2 | 2 | 1 | 3 | 6 | Yes | Yes | Added some water to make it long-black. Almost no acidity |
+| 2026-06-14 | Black | 4 | 3 | 2 | 3 | 3 | 6 | Yes | Yes | Balanced espresso. Not bad |
+| 2026-06-14 | With Milk | 4 | 3 | 2 | 3 | 3 | 6 | Yes | Yes | Balanced espresso. Not bad |
+| 2026-06-27 | Black | 3 | 3 | 3 | 4 | 3 | 6 | Yes | Yes | Very acidic as regular espresso. Neutralised by adding more water and milk |
 | | | | | | | | | | | |
 
 > [!tip] Logging a new session

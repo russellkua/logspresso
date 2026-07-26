@@ -13,7 +13,6 @@ organic: "No"
 availability: "Permanent"
 tags: [pod, nespresso, vertuo]
 ---
-
 # Double Espresso Chiaro Decaffeinato
 
 > [!info] Category
@@ -22,7 +21,7 @@ tags: [pod, nespresso, vertuo]
 > **Taste Profile:** Woody and toasted cereal
 > **Decaf:** Yes · **Organic:** No · **Availability:** Permanent
 
-🔗 See this pod's entry in the [[Flavour Library]].
+🔗 See this pod's entry in the [[Flavour Catalogue]].
 
 ## Tasting Sessions
 
