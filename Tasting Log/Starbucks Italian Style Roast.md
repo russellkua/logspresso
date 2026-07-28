@@ -25,11 +25,11 @@ tags: [pod, starbucks, original]
 
 ## Tasting Sessions
 
-| Date | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-06-18 | Black | 3 | 3 | 2 | 2 | 3 | 6 | Yes | Yes |  Added water to make it a long black. Better  |
-| 2206-06-29 | Black | 3 | 3 | 3 | 3 | 3 | 6 | Yes | Yes | Added water to make it longer. Not so acidic |
-| | | | | | | | | | | |
+| Date       | Preparation | Aroma | Body | Bitterness | Acidity | Aftertaste | Overall | Try Again? | Finished Cup? | Notes                                                                           |
+| ---------- | ----------- | ----- | ---- | ---------- | ------- | ---------- | ------- | ---------- | ------------- | ------------------------------------------------------------------------------- |
+| 2026-06-18 | Black       | 3     | 3    | 2          | 2       | 3          | 6       | Yes        | Yes           | Added water to make it a long black. Better                                     |
+| 2026-06-29 | Black       | 3     | 3    | 3          | 3       | 3          | 6       | Yes        | Yes           | Added water to make it longer. Not so acidic                                    |
+| 2026-07-28 | Mocha       | 3     | 3    | 1          | 1       | 3          | 5       | Yes        | Yes           | Added milo as base, lungo pod. Can't taste the coffee, only sweetness from milo |
 
 > [!tip] Logging a new session
 > Every time you prepare this pod differently (black, with milk, iced, etc.), add a new row to the table above with today's date. This lets you compare preparations for the *same* flavour side by side.
