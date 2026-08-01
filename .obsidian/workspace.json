@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasting Log/Starbucks Italian Style Roast.md",
+                "file": "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Starbucks Italian Style Roast"
+              "title": "Coconut Vanilla Flavour Over Ice"
             }
           }
         ]
@@ -195,21 +195,24 @@
   },
   "active": "fe180117d99d4449",
   "lastOpenFiles": [
-    "Flavour Catalogue (Table).md",
+    "Tasting Log/Ice Leggero.md",
     "Flavour Catalogue.md",
+    "().md",
+    "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
     "Tasting Log/Double Espresso Chiaro Decaffeinato.md",
+    "Tasting Log/Caffe Florian.md",
+    "Tasting Log/Colombia.md",
+    "Templates/New Tasting Log Entry.md",
+    "Templates/New Flavour Row.md",
+    "Tasting Log/Starbucks Italian Style Roast.md",
+    "Flavour Catalogue (Table).md",
     "Tasting Log/Double Espresso Scuro.md",
     "Tasting Log/Ethiopia.md",
-    "Tasting Log/Ice Leggero.md",
-    "Tasting Log/Colombia.md",
-    "Tasting Log/Caffe Florian.md",
     "Tasting Log/Livanto.md",
     "Tasting Log/Intenso.md",
     "Tasting Log/Altissio Decaffeinato.md",
     "Attachments",
     "README.md",
-    "Templates/New Tasting Log Entry.md",
-    "Templates/New Flavour Row.md",
     "Tasting Log/Diavolitto.md",
     "Tasting Log/Orafio.md",
     "Tasting Log/Melozio.md",
@@ -219,10 +222,8 @@
     "Templates",
     "Tasting Log/Voltesso.md",
     "Tasting Log/Sweet Almond and Hibiscus.md",
-    "Tasting Log/Starbucks Italian Style Roast.md",
     "Tasting Log/Starbucks House Blend (Original).md",
     "Tasting Log/Starbucks Espresso (Original).md",
-    "Tasting Log/New Pod Page.md",
     "Tasting Log"
   ]
 }

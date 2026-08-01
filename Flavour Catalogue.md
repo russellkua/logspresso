@@ -210,7 +210,7 @@ Collabs and limited drops (e.g. *Starbucks by Nespresso*, *Blue Bottle x Nespres
 
 **Barista Creations Over Ice**
 
-- <span class="roast-dot flavoured"></span> **Coconut Vanilla Over Ice** — *Coconut and vanilla, for iced recipes* `Mug · Flavoured` <span class="tried-badge"></span>
+- <span class="roast-dot flavoured"></span> [**Coconut Vanilla Over Ice** ](obsidian://open?vault=logspresso&file=Tasting%20Log%2FCoconut%20Vanilla%20Flavour%20Over%20Ice)— *Coconut and vanilla, for iced recipes* `Mug · Flavoured` <span class="tried-badge"></span>
 - <span class="roast-dot flavoured"></span> **Ice Forte** — *Intense, for iced recipes* `Double Espresso · Flavoured` <span class="tried-badge"></span>
 - <span class="roast-dot flavoured"></span> **[[Ice Leggero]]** — *Mild, for iced recipes* `Double Espresso · Flavoured` <span class="tried-badge tried"></span>
 - <span class="roast-dot flavoured"></span> **Pistachio Vanilla Over Ice** — *Pistachio and vanilla, for iced recipes* `Double Espresso · Flavoured` <span class="tried-badge"></span>
