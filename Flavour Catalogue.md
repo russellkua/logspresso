@@ -324,6 +324,6 @@ Collabs and limited drops (e.g. *Starbucks by Nespresso*, *Blue Bottle x Nespres
 - <span class="roast-dot medium"></span> **illy Classico Decaf** — *Caramel and jasmine notes without caffeine* `Espresso · Int. 7` <span class="tag decaf">DECAF</span> <span class="tried-badge"></span>
 - <span class="roast-dot dark"></span> **illy Forte** — *Bold and powerful with toasted bread and dark chocolate* `Espresso · Int. 11` <span class="tried-badge"></span>
 - <span class="roast-dot dark"></span> **illy Intenso** — *Full-bodied and intense with cocoa and dried fruit* `Espresso · Int. 9` <span class="tried-badge"></span>
-- <span class="roast-dot medium"></span> **illy Lungo** — *Smooth and balanced with floral notes* `Lungo · Int. 6` <span class="tried-badge"></span>
+- <span class="roast-dot medium"></span> **[[Illy Lungo|illy Lungo]]** — *Smooth and balanced with floral notes* `Lungo · Int. 6` <span class="tried-badge tried"></span>
 
 

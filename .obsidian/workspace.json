@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
+                "file": "Tasting Log/Illy Lungo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coconut Vanilla Flavour Over Ice"
+              "title": "Illy Lungo"
             }
           }
         ]
@@ -193,16 +193,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe180117d99d4449",
+  "active": "1c32fe8b76b8e6be",
   "lastOpenFiles": [
+    "Templates/New Tasting Log Entry.md",
+    "Tasting Log/Illy Lungo.md",
+    "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
     "Tasting Log/Ice Leggero.md",
     "Flavour Catalogue.md",
     "().md",
-    "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
     "Tasting Log/Double Espresso Chiaro Decaffeinato.md",
     "Tasting Log/Caffe Florian.md",
     "Tasting Log/Colombia.md",
-    "Templates/New Tasting Log Entry.md",
     "Templates/New Flavour Row.md",
     "Tasting Log/Starbucks Italian Style Roast.md",
     "Flavour Catalogue (Table).md",
@@ -223,7 +224,6 @@
     "Tasting Log/Voltesso.md",
     "Tasting Log/Sweet Almond and Hibiscus.md",
     "Tasting Log/Starbucks House Blend (Original).md",
-    "Tasting Log/Starbucks Espresso (Original).md",
     "Tasting Log"
   ]
 }
