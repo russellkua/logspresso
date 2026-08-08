@@ -11,10 +11,24 @@
             "id": "a9ebb3e49cc1e749",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tasting Log/Golden Caramel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Golden Caramel"
             }
           }
         ]
@@ -183,6 +197,7 @@
   },
   "active": "a9ebb3e49cc1e749",
   "lastOpenFiles": [
+    "Tasting Log/Golden Caramel.md",
     "Tasting Log/Illy Lungo.md",
     "Templates/New Tasting Log Entry.md",
     "Tasting Log/Coconut Vanilla Flavour Over Ice.md",
@@ -211,7 +226,6 @@
     "Templates",
     "Tasting Log/Voltesso.md",
     "Tasting Log/Sweet Almond and Hibiscus.md",
-    "Tasting Log/Starbucks House Blend (Original).md",
     "Tasting Log"
   ]
 }

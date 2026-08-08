@@ -3,7 +3,7 @@ tags: [flavour-catalogue]
 ---
 # Flavour Catalogue
 
-This is the master catalogue of every coffee pod flavour known — tried and untried. It currently tracks **140 flavours** across **7 brands**, of which **18 have been tasted** (linked below, and detailed in the `Tasting Log/` folder).
+This is the master catalogue of every coffee pod flavour known — tried and untried. It currently tracks **140 flavours** across **7 brands**, of which **19 have been tasted** (linked below, and detailed in the `Tasting Log/` folder).
 
 > [!tip] At a glance
 > Each row is a small card: the **dot** on the left shows roast (tan → near-black, purple = flavoured); the **badge** on the right is filled green once you've tasted it, hollow otherwise. A **clickable name** means it already has a page in `Tasting Log/` — click through to add a new session.
@@ -196,7 +196,7 @@ Collabs and limited drops (e.g. *Starbucks by Nespresso*, *Blue Bottle x Nespres
 
 **Barista Creations Flavoured**
 
-- <span class="roast-dot flavoured"></span> **Golden Caramel** — *Creamy and biscuity caramel* `Mug · Flavoured` <span class="tried-badge"></span>
+- <span class="roast-dot flavoured"></span> **[[Golden Caramel]]** — *Creamy and biscuity caramel* `Mug · Flavoured` <span class="tried-badge tried"></span>
 - <span class="roast-dot flavoured"></span> **Rich Chocolate** — *Creamy and chocolatey* `Mug · Flavoured` <span class="tried-badge"></span>
 - <span class="roast-dot flavoured"></span> **Roasted Hazelnut** — *Rich and nutty* `Mug · Flavoured` <span class="tried-badge"></span>
 - <span class="roast-dot flavoured"></span> **Sweet Vanilla** — *Creamy and sweet vanilla* `Mug · Flavoured` <span class="tried-badge"></span>
