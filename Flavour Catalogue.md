@@ -37,7 +37,7 @@ Collabs and limited drops (e.g. *Starbucks by Nespresso*, *Blue Bottle x Nespres
 
 - <span class="roast-dot light"></span> **Blue Bottle Blend No. 1** — *Mild Ethiopia and Uganda blend, bright and delicate* `Gran Lungo · Int. 4` <span class="tried-badge"></span>
 - <span class="roast-dot light"></span> **Blue Bottle Bold Blend** — *Balanced cup with bright notes and smooth texture* `Mug · Int. 6` <span class="tried-badge"></span>
-- <span class="roast-dot flavoured"></span> **Blue Bottle NOLA Style Blend** — *Chicory-flavoured, malted cereal and caramel, for iced* `Mug · Flavoured` <span class="tried-badge"></span>
+- <span class="roast-dot flavoured"></span> **[[Blue Bottle NOLA Style Blend]]** — *Chicory-flavoured, malted cereal and caramel, for iced* `Mug · Flavoured` <span class="tried-badge tried"></span>
 - <span class="roast-dot light"></span> **Blue Bottle Single Origin No. 1** — *Single origin, signature Blue Bottle brightness* `Gran Lungo · Int. 5` <span class="tried-badge"></span>
 - <span class="roast-dot flavoured"></span> **[[Sweet Almond and Hibiscus]]** — *Almond, caramel and vanilla with a floral hibiscus finish* `Espresso · Flavoured` <span class="tried-badge tried"></span>
 - <span class="roast-dot dark"></span> **[[Caffe Florian]]** — *Dark chocolate, dried fruit and brown spices with woody, earthy notes* `Ristretto · Int. 9` <span class="tried-badge tried"></span>
@@ -69,7 +69,7 @@ Collabs and limited drops (e.g. *Starbucks by Nespresso*, *Blue Bottle x Nespres
 
 - <span class="roast-dot light"></span> **Blue Bottle Blend No. 1** — *Mild Ethiopia and Uganda blend, bright and delicate* `Gran Lungo · Int. 4` <span class="tried-badge"></span>
 - <span class="roast-dot light"></span> **Blue Bottle Bold Blend** — *Balanced cup with bright notes and smooth texture* `Mug · Int. 6` <span class="tried-badge"></span>
-- <span class="roast-dot flavoured"></span> **Blue Bottle NOLA Style Blend** — *Chicory-flavoured, malted cereal and caramel, for iced* `Mug · Flavoured` <span class="tried-badge"></span>
+- <span class="roast-dot flavoured"></span> **[[Blue Bottle NOLA Style Blend]]** — *Chicory-flavoured, malted cereal and caramel, for iced* `Mug · Flavoured` <span class="tried-badge tried"></span>
 - <span class="roast-dot light"></span> **Blue Bottle Single Origin No. 1** — *Single origin, signature Blue Bottle brightness* `Gran Lungo · Int. 5` <span class="tried-badge"></span>
 
 
